@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896170268850",
+    "project_id": "cafebanterindia",
+    "storage_bucket": "cafebanterindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896170268850:android:9ac6bebe6b9718cacd11ab",
+        "android_client_info": {
+          "package_name": "com.cafebanter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896170268850-q76pnjrndt43uishvb2t2ril9oljb99j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-i5wB6UZVj00Y9r43GWHhypecFFY4Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896170268850-q76pnjrndt43uishvb2t2ril9oljb99j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
